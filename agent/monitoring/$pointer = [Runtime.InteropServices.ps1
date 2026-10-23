@@ -1,0 +1,1 @@
+$pointer = [Runtime.InteropServices.Marshal]::SecureStringToBSTR($credential.Password)
